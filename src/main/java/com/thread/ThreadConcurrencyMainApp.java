@@ -11,9 +11,12 @@ public class ThreadConcurrencyMainApp {
 	public static void main(String[] args) {
 
 		ThreadStub stub = new ThreadStub();
-		stub.threadCreateStub();
-        stub.deadLockStub();
-        stub.threadPoolStub();
+		//stub.threadCreateStub();
+        //stub.deadLockStub();
+        //stub.threadPoolStub();
+        //stub.volatileStub();
+        //stub.synchronizedCountStub();
+        stub.synchronizedWorkerStub();
 
 	}
 }

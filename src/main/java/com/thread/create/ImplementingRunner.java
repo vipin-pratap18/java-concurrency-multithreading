@@ -1,6 +1,5 @@
 package com.thread.create;
 
-import org.apache.tomcat.jni.Thread;
 
 public class ImplementingRunner implements Runnable {
 

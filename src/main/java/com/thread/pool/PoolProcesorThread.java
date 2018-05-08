@@ -1,6 +1,5 @@
 package com.thread.pool;
 
-import org.apache.tomcat.jni.Thread;
 
 public class PoolProcesorThread implements Runnable {
 	
